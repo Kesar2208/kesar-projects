@@ -8,7 +8,7 @@ Welcome to my GitHub portfolio! I'm Kesar Bareliwala, and this is a curated list
 
 ### Gym Website  
 A modern, responsive gym website built using HTML, CSS, and JavaScript. Features include a clean layout, responsive design, and interactive elements.  
-[View Repository](https://github.com/kesar2208/Gym_Website)
+[View Repository](https://github.com/Kesar2208/figma-website-design)
 
 ---
 
