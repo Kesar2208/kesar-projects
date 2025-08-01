@@ -32,7 +32,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 ## Contact
 
 - Email: kesarbareliwala@gmail.com  
-- LinkedIn: [linkedin.com/in/kesarbareliwala](https://linkedin.com/in/kesarbareliwala)
+- LinkedIn: [linkedin.com/in/kesarbareliwala](www.linkedin.com/in/kesar-bareliwala-467b472a8)
 
 ---
 
