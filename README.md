@@ -16,7 +16,7 @@ A modern, responsive gym website built using HTML, CSS, and JavaScript. Features
 
 ### Amazon Sales Dashboard  
 A professional Tableau dashboard analyzing Amazon's sales performance. Includes KPIs, year-wise comparisons, profit insights, and category breakdowns.  
-[View Repository](https://github.com/kesar2208/Amazon-Sales-Dashboard)
+[View Repository](https://github.com/Kesar2208/Amazon-Sales-Tableau-Dashboard)
 
 ---
 
