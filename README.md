@@ -4,6 +4,21 @@ Welcome to my GitHub portfolio! I'm Kesar Bareliwala, and this is a curated list
 
 ---
 
+## Data Analysis Projects
+
+### Amazon Sales Dashboard  
+A professional Tableau dashboard analyzing Amazon's sales performance. Includes KPIs, year-wise comparisons, profit insights, and category breakdowns.  
+[View Repository](https://github.com/Kesar2208/Amazon-Sales-Tableau-Dashboard)
+
+## Atliq Hospitality Analysis — Power BI Project
+This is a professional Power BI dashboard built to analyze performance metrics of Atliq Hotels. The dashboard provides insights into occupancy, revenue, booking trends, room categories, and more, helping stakeholders make informed business decisions.
+
+## Final Year Project :- Trends Analysis and Sales Prediction for Cars and Two-Wheelers Across Fuel Types
+
+Forecasting the shift from petrol/diesel to EV and CNG vehicles in India using machine learning and time-series analysis
+
+---
+
 ## Web Development Projects (UI/UX)
 
 ### Gym Website  
@@ -11,15 +26,6 @@ A modern, responsive gym website built using HTML, CSS, and JavaScript. Features
 [View Repository](https://github.com/Kesar2208/figma-website-design)
 
 ---
-
-## Data Analysis Projects
-
-### Amazon Sales Dashboard  
-A professional Tableau dashboard analyzing Amazon's sales performance. Includes KPIs, year-wise comparisons, profit insights, and category breakdowns.  
-[View Repository](https://github.com/Kesar2208/Amazon-Sales-Tableau-Dashboard)
-
----
-
 ## Portfolio Website
 
 ### Personal Portfolio  
@@ -36,3 +42,4 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 ---
 
 > Feel free to explore
+
