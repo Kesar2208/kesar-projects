@@ -17,7 +17,7 @@ This is a professional Power BI dashboard built to analyze performance metrics o
 ### Final Year Project :- Trends Analysis and Sales Prediction for Cars and Two-Wheelers Across Fuel Types
 
 Forecasting the shift from petrol/diesel to EV and CNG vehicles in India using machine learning and time-series analysis
-[View Repository](https://https://github.com/Kesar2208/final-year-project)
+[View Repository](https://github.com/Kesar2208/final-year-project)
 
 ---
 
@@ -44,5 +44,6 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 ---
 
 > Feel free to explore
+
 
 
