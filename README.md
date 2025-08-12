@@ -21,12 +21,13 @@ This project analyzes US domestic flight delays using Power BI. The dashboard pr
 
 [View Repository](https://github.com/Kesar2208/US-Domestic-Flight-Delay-Analysis)
 
+---
+
 ### Final Year Project :- Trends Analysis and Sales Prediction for Cars and Two-Wheelers Across Fuel Types
 
 Forecasting the shift from petrol/diesel to EV and CNG vehicles in India using machine learning and time-series analysis.
 
 [View Repository](https://github.com/Kesar2208/final-year-project)
-
 
 ---
 
@@ -56,6 +57,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 ---
 
 > Feel free to explore
+
 
 
 
