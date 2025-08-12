@@ -16,6 +16,11 @@ This is a professional Power BI dashboard built to analyze performance metrics o
 
 [View Repository](https://github.com/Kesar2208/Atliq-Hospitality-Analysis)
 
+### US Domestic Flight Delay Analysis — Power BI Project
+This project analyzes US domestic flight delays using Power BI. The dashboard provides insights into key performance indicators (KPIs) and visual trends, helping to identify delay patterns by airline, day of the week, and more.
+
+[View Repository](https://github.com/Kesar2208/US-Domestic-Flight-Delay-Analysis)
+
 ### Final Year Project :- Trends Analysis and Sales Prediction for Cars and Two-Wheelers Across Fuel Types
 
 Forecasting the shift from petrol/diesel to EV and CNG vehicles in India using machine learning and time-series analysis.
@@ -51,6 +56,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 ---
 
 > Feel free to explore
+
 
 
 
