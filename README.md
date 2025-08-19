@@ -21,6 +21,12 @@ This project analyzes US domestic flight delays using Power BI. The dashboard pr
 
 [View Repository](https://github.com/Kesar2208/US-Domestic-Flight-Delay-Analysis)
 
+### Pizza Sales Performance Dashboard — Power BI Project
+This project is a **Pizza Sales Dashboard** built in **Power BI** to analyze and visualize pizza sales data.  
+The dashboard helps stakeholders track **sales performance, customer ordering behavior, and top-selling products**, enabling data-driven decisions for business growth.
+
+[View Repository](https://github.com/Kesar2208/Pizza-Sales-Insights-Dashboard)
+
 ---
 
 ### Final Year Project :- Trends Analysis and Sales Prediction for Cars and Two-Wheelers Across Fuel Types
@@ -57,6 +63,7 @@ This is my personal portfolio website built using HTML, CSS, and JavaScript. It 
 ---
 
 > Feel free to explore
+
 
 
 
